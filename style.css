@@ -76,8 +76,10 @@
     border-radius: 50%;
     background-color: #323840;
     position: absolute;
-    top: 28%;
-    right: 16%;
+    top: 29%;
+    left: 60%;
+    bottom: 60%;
+    right: 38%;
     cursor: pointer;
     display: flex;
     align-items: center;
